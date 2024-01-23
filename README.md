@@ -5,7 +5,7 @@
 </div>
 <div id="header" align="center">
   <a href="https://vk.com/id844780682">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png" width="50" height="50"  /> 
+    <img src="https://smmbox.com/blog/wp-content/uploads/2022/01/servis-po-sokrashcheniyu-ssylok-v-vk-970x350.jpg" width="50" height="50"  /> 
 </div>
 Skills:
 <div>
