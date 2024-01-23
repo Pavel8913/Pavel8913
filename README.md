@@ -5,7 +5,7 @@
 </div>
 <div id="header" align="center">
   <a href="https://vk.com/id844780682">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png" width="40" height="40"  /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png" width="60" height="60"  /> 
 </div>
 Skills:
 <div>
