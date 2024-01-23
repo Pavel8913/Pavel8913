@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff3%2FVK_Compact_Logo_%25282021-present%2529.svg%2Flangru-1500px-VK_Compact_Logo_%25282021-present%2529.svg.png?style=flat" alt="LinkedIn Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png" alt="LinkedIn Badge"/>
 </div>
 Skills:
 <div>
