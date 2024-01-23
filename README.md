@@ -7,6 +7,7 @@
   <a href="https://vk.com/id844780682">
     <img src="https://smmbox.com/blog/wp-content/uploads/2022/01/servis-po-sokrashcheniyu-ssylok-v-vk-970x350.jpg" width="150"  /> 
 </div>
+    ---
  :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
