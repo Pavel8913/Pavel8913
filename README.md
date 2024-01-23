@@ -16,4 +16,6 @@
   <img src="https://github.com/Pavel8913/c-logo/blob/main/%D1%81%2B%2B.png" width="40" height="40"/>  
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pavel8913&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC" alt="GitHub Streak" /></a>
+
 
