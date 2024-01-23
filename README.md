@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="150"/>
 </div>
 <div id="badges">
   <a href="https://vk.com/id844780682">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png"  /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/langru-1500px-VK_Compact_Logo_%282021-present%29.svg.png" width="40" height="40"  /> 
 </div>
 Skills:
 <div>
